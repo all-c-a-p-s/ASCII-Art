@@ -1,2 +1,4 @@
 # ASCII-Art
-generating ASCII art from a .bmp file
+Generating ASCII art from a .bmp file.
+
+![](ascii.png)
